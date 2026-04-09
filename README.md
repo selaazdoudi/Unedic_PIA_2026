@@ -11,6 +11,8 @@ The core objective is to analyze whether the reform — which introduces **state
 - Strengthen job-search incentives
 - Reduce recruitment difficulties
 
+The goal of this work is to show qualitatively how unemployment insurance mechanisms transmit into the economy. 
+
 ---
 
 ## Economic Framework
@@ -82,12 +84,9 @@ Key outcomes analyzed:
 - Wage rigidities significantly **dampen firm-side responses**
 - The reform induces a **trade-off between employment gains and income protection**
 
- Overall, the reform improves incentives more than it solves structural matching inefficiencies :contentReference[oaicite:0]{index=0}
-
 ---
 
 ##  Repository Structure
-
 
 Unedic_PIA_2026/
 ├── notebooks/
