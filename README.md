@@ -1,4 +1,4 @@
-# Unedic_PIA_2026
+# Unedic Policy-in-Action Project (2026)
 
 ## 📌 Project Overview
 
@@ -86,8 +86,9 @@ Key outcomes analyzed:
 
 ---
 
-##  Repository Structure
+## Repository Structure
 
+```text
 Unedic_PIA_2026/
 ├── notebooks/
 │   ├── model_1_benchmark.ipynb
