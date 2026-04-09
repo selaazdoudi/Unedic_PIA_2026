@@ -13,7 +13,7 @@ The core objective is to analyze whether the reform — which introduces **state
 
 ---
 
-## 🧠 Economic Framework
+## Economic Framework
 
 The project builds on **search-and-matching theory** to model labor market dynamics, including:
 
@@ -35,7 +35,7 @@ Two key transmission channels are analyzed:
 
 ---
 
-## 🏗️ Model Structure
+##  Model Structure
 
 The repository implements several versions of the model:
 
@@ -56,7 +56,7 @@ The repository implements several versions of the model:
 
 ---
 
-## 📊 Calibration & Simulation
+##  Calibration & Simulation
 
 The model is calibrated to **French labor market data (H2 2022)**.
 
@@ -72,7 +72,7 @@ Key outcomes analyzed:
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
 - The reform is **theoretically consistent** with improving employment in tight labor markets  
 - However, **quantitative effects remain modest**  
@@ -82,22 +82,18 @@ Key outcomes analyzed:
 - Wage rigidities significantly **dampen firm-side responses**
 - The reform induces a **trade-off between employment gains and income protection**
 
-👉 Overall, the reform improves incentives more than it solves structural matching inefficiencies :contentReference[oaicite:0]{index=0}
+ Overall, the reform improves incentives more than it solves structural matching inefficiencies :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 
 Unedic_PIA_2026/
-│
 ├── notebooks/
 │   ├── model_1_benchmark.ipynb
 │   ├── model_1.5_wage_rigidities.ipynb
 │   └── model_2_business_cycle.ipynb
-│
 ├── paper/
 │   └── research_paper.pdf
-│
 └── presentation/
-    └── slides
