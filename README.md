@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project develops a **macro-economic evaluation framework** for the 2023 French unemployment insurance reform, commissioned in collaboration with Unédic (Direction des Études et Analyses).
+This project develops a **macro-economic evaluation framework** for the 2023 French unemployment insurance reform, commissioned in collaboration with Unédic and Ecole Polytechnique-ENSAE-Telecom Master "Data and Economics for Public Policy". 
 
 Unlike standard micro-evaluations, this work focuses on **general equilibrium effects**, using **search-and-matching models** to assess how changes in unemployment insurance (UI) parameters affect labor market outcomes.
 
